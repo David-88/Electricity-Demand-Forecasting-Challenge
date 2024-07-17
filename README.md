@@ -1,4 +1,6 @@
 # 暑期机器学习零基础特训第二期——实战篇——**Datawhale AI 夏令营**
+## 我们的公众号对应粉丝交流群为：912860177
+
 ## 电力需求预测挑战赛（讯飞开放平台）
 
 [电力需求预测挑战赛（讯飞开放平台）链接](https://challenge.xfyun.cn/topic/info?type=electricity-demand&ch=dw24_uGS8Gs)
@@ -38,3 +40,17 @@ $$\frac{1}{n}\sum_{n=1}^n(y_i-\bar{y_i})^2$$
 3.测试集数据具体展示：
 
 ![data_train_csv文件展示](https://files.mdnice.com/user/47241/ac3e12b2-5ea3-443a-af90-da44e623e167.png)
+
+4.目前得分-排名
+      257-73
+![image1](https://github.com/user-attachments/assets/5293db9f-c47f-4eea-a95e-534ea7179f39)
+
+5.注意
+
+- 代码已经系统性整理好在仓库中并且加入基础知识辅助学习
+- 允许在非盈利非商业的情况下学习使用，感谢。
+## 我们的公众号对应粉丝交流群为：912860177
+
+![image2](https://github.com/user-attachments/assets/08688af2-5c75-4e7b-b545-dcf224fac45e)
+
+- 群里有丰富的资料和各界大神，期待您的加入！
