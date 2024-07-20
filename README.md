@@ -42,8 +42,9 @@ $$\frac{1}{n}\sum_{n=1}^n(y_i-\bar{y_i})^2$$
 ![data_train_csv文件展示](https://files.mdnice.com/user/47241/ac3e12b2-5ea3-443a-af90-da44e623e167.png)
 
 4.目前得分-排名
-      257-73
-![image1](https://github.com/user-attachments/assets/5293db9f-c47f-4eea-a95e-534ea7179f39)
+      233-60
+![1721461837527](https://github.com/user-attachments/assets/09b020f3-b9b4-41d1-904e-e7a689fb276e)
+
 
 5.注意
 
