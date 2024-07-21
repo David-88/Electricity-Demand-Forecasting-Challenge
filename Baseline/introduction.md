@@ -8,3 +8,5 @@
 - 实战篇第一期（Baseline1）https://mp.weixin.qq.com/s/nV7BSSXVxg5GmvC3DSDPFQ
 
 - 实战篇第二期（Baseline2）https://mp.weixin.qq.com/s/kKXF6wimA-qN_Crq4JQJWQ
+
+- 实战篇第三期（Baseline3）https://mp.weixin.qq.com/s/o2AdE25k0ae0_QRCLg8BbA
