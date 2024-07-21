@@ -4,6 +4,10 @@
 ## 电力需求预测挑战赛（讯飞开放平台）
 
 [电力需求预测挑战赛（讯飞开放平台）链接](https://challenge.xfyun.cn/topic/info?type=electricity-demand&ch=dw24_uGS8Gs)
+
+- 第一期(Baseline1_code)对应推文地址：https://mp.weixin.qq.com/s/nV7BSSXVxg5GmvC3DSDPFQ
+- 第二期(Baseline2_code)对应推文地址：https://mp.weixin.qq.com/s/kKXF6wimA-qN_Crq4JQJWQ
+- 第三期(Baseline3_code)对应推文地址：https://mp.weixin.qq.com/s/o2AdE25k0ae0_QRCLg8BbA
 ### 赛事概要
 一、赛题背景\
 随着全球经济的快速发展和城市化进程的加速，电力系统面临着越来越大的挑战。电力需求的准确预测对于电网的稳定运行、能源的有效管理以及可再生能源的整合至关重要。
